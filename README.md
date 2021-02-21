@@ -1,6 +1,6 @@
-# NodeZero
+# NodeZero's Serenity
 
-NodeZero is a PrimeFace Spring Boot application written to Facilitates tracking the Factory Inventory and employees' daily works.
+NodeZero's serenity is a PrimeFace Spring Boot application written to Facilitates tracking the Factory Inventory and employees' daily works.
 
 ## Installation
 
